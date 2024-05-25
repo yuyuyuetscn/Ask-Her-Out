@@ -2,12 +2,12 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 80vh;
     background-color: rgb(247, 215, 241);
 }
 
 .header_text {
-    font-family: 'Nunito';
+    font-family: 'Roboto';
     font-size: 50px;
     font-weight: bold;
     color: white;
